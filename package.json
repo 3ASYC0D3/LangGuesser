@@ -1,0 +1,14 @@
+{
+  "name": "langguesser",
+  "version": "1.0.0",
+  "description": "Enter a sentence to get a language name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheGulka",
+  "license": "ISC",
+  "dependencies": {
+    "franc": "^5.0.0"
+  }
+}
